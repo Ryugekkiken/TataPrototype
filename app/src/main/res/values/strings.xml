@@ -3,6 +3,29 @@
     <string name="email_hint">Email</string>
     <string name="password_hint">Password</string>
     <string name="login_button_text">Login</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reset_text">Clear</string>
+    <string name="fab_content_description">Done</string>
+    <string name="welcome_text">Welcome to Tata-Signature</string>
+    <string name="sign_in_button_text">Sign in with Tata account</string>
+    <string name="about_button_text">About</string>
+    <string name="contact_button_text">Contact</string>
+    <string name="test_string">Test document</string>
+    <string name="welcome_message">Welcome Jane Doe</string>
+    <string name="categories_title">All categories</string>
+    <string name="categories_message">All documents to sign</string>
+    <string name="percentage_hardcode">76%</string>
+    <string name="categories_presenter">Categories</string>
+    <string name="urgent_category_title">Urgent</string>
+    <string name="urgent_category_notification_text">%d new tasks</string>
+    <string name="document_category_title">Documents</string>
+    <string name="snackbar_fail">Failed to sign</string>
+    <string name="snackbar_success">Successfully signed</string>
+    <string name="signature_petition_text">Please sign the Document</string>
+    <string name="snackbar_action">Return to hub</string>
+    <string name="error_login">Invalid user or password</string>
+    <string name="document_category_notification_text">%d docs to sign</string>
+    <string name="log_out_button_text">Log out</string>
+    <string name="tata_logo">Tata logo</string>
+    <string name="bell_icon_content_description">bell icon</string>
+    <string name="file_icon_content_description">file icon</string>
 </resources>
